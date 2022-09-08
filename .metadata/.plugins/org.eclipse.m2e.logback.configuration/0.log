@@ -1,0 +1,118 @@
+2022-09-08 13:09:28,676 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-09-08 13:23:40,627 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.devsuperior:aulaorm:0.0.1-SNAPSHOT @ C:\Users\marci\Documents\temp\Mapeamento Objeto-relaconal - ORM\aulaorm\pom.xml.
+2022-09-08 13:23:51,367 [Worker-10: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /aulaorm/src/main/java
+2022-09-08 13:23:51,370 [Worker-10: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /aulaorm/src/main/resources
+2022-09-08 13:23:51,385 [Worker-10: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /aulaorm/src/main/resources
+2022-09-08 13:23:51,406 [Worker-10: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /aulaorm/src/test/java
+2022-09-08 13:23:59,324 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 23 sec
+2022-09-08 13:24:01,623 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-08 13:24:01,624 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-08 13:24:01,634 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-08 13:24:01,665 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-08 13:24:01,671 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-08 13:24:01,672 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-08 13:24:01,672 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marci\Documents\temp\Mapeamento Objeto-relaconal - ORM\aulaorm\src\test\resources
+2022-09-08 13:38:49,219 [Worker-21: Launching aulaorm - AulaormApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-08 13:38:49,219 [Worker-21: Launching aulaorm - AulaormApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-08 13:38:49,224 [Worker-21: Launching aulaorm - AulaormApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-08 13:38:49,232 [Worker-21: Launching aulaorm - AulaormApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-08 13:38:49,235 [Worker-21: Launching aulaorm - AulaormApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-08 13:38:49,235 [Worker-21: Launching aulaorm - AulaormApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-08 13:38:49,235 [Worker-21: Launching aulaorm - AulaormApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marci\Documents\temp\Mapeamento Objeto-relaconal - ORM\aulaorm\src\test\resources
+2022-09-08 13:40:34,344 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-08 13:40:34,345 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-08 13:40:34,345 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-08 13:40:34,350 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-08 13:40:34,353 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-08 13:40:34,353 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-08 13:40:34,353 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marci\Documents\temp\Mapeamento Objeto-relaconal - ORM\aulaorm\src\test\resources
+2022-09-08 13:50:29,204 [Worker-27: Launching aulaorm - AulaormApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-08 13:50:29,204 [Worker-27: Launching aulaorm - AulaormApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-08 13:50:29,204 [Worker-27: Launching aulaorm - AulaormApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-08 13:50:29,209 [Worker-27: Launching aulaorm - AulaormApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-08 13:50:29,213 [Worker-27: Launching aulaorm - AulaormApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-08 13:50:29,213 [Worker-27: Launching aulaorm - AulaormApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-08 13:50:29,213 [Worker-27: Launching aulaorm - AulaormApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marci\Documents\temp\Mapeamento Objeto-relaconal - ORM\aulaorm\src\test\resources
+2022-09-08 13:52:07,874 [Worker-33: Launching aulaorm - AulaormApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-08 13:52:07,874 [Worker-33: Launching aulaorm - AulaormApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-08 13:52:07,875 [Worker-33: Launching aulaorm - AulaormApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-08 13:52:07,884 [Worker-33: Launching aulaorm - AulaormApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-08 13:52:07,886 [Worker-33: Launching aulaorm - AulaormApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-08 13:52:07,887 [Worker-33: Launching aulaorm - AulaormApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-08 13:52:07,887 [Worker-33: Launching aulaorm - AulaormApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marci\Documents\temp\Mapeamento Objeto-relaconal - ORM\aulaorm\src\test\resources
+2022-09-08 13:52:56,601 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-08 13:52:56,601 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-08 13:52:56,602 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-08 13:52:56,614 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-08 13:52:56,617 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-08 13:52:56,617 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-08 13:52:56,617 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marci\Documents\temp\Mapeamento Objeto-relaconal - ORM\aulaorm\src\test\resources
+2022-09-08 13:58:46,315 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-08 13:58:46,315 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-08 13:58:46,316 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-08 13:58:46,322 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-08 13:58:46,325 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-08 13:58:46,325 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-08 13:58:46,325 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marci\Documents\temp\Mapeamento Objeto-relaconal - ORM\aulaorm\src\test\resources
+2022-09-08 13:59:54,269 [Worker-32: Launching aulaorm - AulaormApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-08 13:59:54,270 [Worker-32: Launching aulaorm - AulaormApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-08 13:59:54,271 [Worker-32: Launching aulaorm - AulaormApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-08 13:59:54,277 [Worker-32: Launching aulaorm - AulaormApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-08 13:59:54,282 [Worker-32: Launching aulaorm - AulaormApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-08 13:59:54,282 [Worker-32: Launching aulaorm - AulaormApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-08 13:59:54,282 [Worker-32: Launching aulaorm - AulaormApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marci\Documents\temp\Mapeamento Objeto-relaconal - ORM\aulaorm\src\test\resources
+2022-09-08 14:18:19,971 [Worker-51: Launching aulaorm - AulaormApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-08 14:18:19,971 [Worker-51: Launching aulaorm - AulaormApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-08 14:18:19,972 [Worker-51: Launching aulaorm - AulaormApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-08 14:18:19,979 [Worker-51: Launching aulaorm - AulaormApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-08 14:18:19,979 [Worker-51: Launching aulaorm - AulaormApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-08 14:18:19,979 [Worker-51: Launching aulaorm - AulaormApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marci\Documents\temp\Mapeamento Objeto-relaconal - ORM\aulaorm\src\test\resources
+2022-09-08 14:25:03,446 [Worker-56: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.devsuperior:aulaorm:0.0.1-SNAPSHOT @ C:\Users\marci\Documents\temp\Mapeamento Objeto-relaconal - ORM\aulaorm\pom.xml.
+2022-09-08 14:25:04,283 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-08 14:25:04,286 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-08 14:25:04,287 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-08 14:25:04,288 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-08 14:25:04,289 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marci\Documents\temp\Mapeamento Objeto-relaconal - ORM\aulaorm\src\test\resources
+2022-09-08 14:25:33,998 [Worker-57: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-09-08 14:25:34,192 [Worker-57: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.devsuperior:aulaorm:0.0.1-SNAPSHOT @ C:\Users\marci\Documents\temp\Mapeamento Objeto-relaconal - ORM\aulaorm\pom.xml.
+2022-09-08 14:25:34,463 [Worker-57: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /aulaorm/src/main/java
+2022-09-08 14:25:34,464 [Worker-57: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /aulaorm/src/main/resources
+2022-09-08 14:25:34,464 [Worker-57: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /aulaorm/src/main/resources
+2022-09-08 14:25:34,465 [Worker-57: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /aulaorm/src/test/java
+2022-09-08 14:25:34,687 [Worker-57: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2022-09-08 14:25:35,161 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-08 14:25:35,162 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-08 14:25:35,174 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-08 14:25:35,177 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-08 14:25:35,177 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marci\Documents\temp\Mapeamento Objeto-relaconal - ORM\aulaorm\src\test\resources
+2022-09-08 14:45:11,036 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-08 14:45:11,038 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-08 14:45:11,039 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-08 14:45:11,043 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-08 14:45:11,044 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marci\Documents\temp\Mapeamento Objeto-relaconal - ORM\aulaorm\src\test\resources
+2022-09-08 14:45:53,059 [Worker-70: Launching aulaorm - AulaormApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-08 14:45:53,060 [Worker-70: Launching aulaorm - AulaormApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-08 14:45:53,060 [Worker-70: Launching aulaorm - AulaormApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-08 14:45:53,064 [Worker-70: Launching aulaorm - AulaormApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-08 14:45:53,064 [Worker-70: Launching aulaorm - AulaormApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marci\Documents\temp\Mapeamento Objeto-relaconal - ORM\aulaorm\src\test\resources
+2022-09-08 14:50:21,003 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-08 14:50:21,004 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-08 14:50:21,005 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-08 14:50:21,008 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-08 14:50:21,008 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marci\Documents\temp\Mapeamento Objeto-relaconal - ORM\aulaorm\src\test\resources
+2022-09-08 14:54:11,737 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-08 14:54:11,738 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-08 14:54:11,740 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-08 14:54:11,741 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-08 14:54:11,742 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marci\Documents\temp\Mapeamento Objeto-relaconal - ORM\aulaorm\src\test\resources
+2022-09-08 14:54:25,519 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-08 14:54:25,520 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-08 14:54:25,521 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-08 14:54:25,523 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-08 14:54:25,523 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marci\Documents\temp\Mapeamento Objeto-relaconal - ORM\aulaorm\src\test\resources
+2022-09-08 15:01:08,936 [Worker-80: Launching aulaorm - AulaormApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-08 15:01:08,937 [Worker-80: Launching aulaorm - AulaormApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-08 15:01:08,938 [Worker-80: Launching aulaorm - AulaormApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-08 15:01:08,940 [Worker-80: Launching aulaorm - AulaormApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-08 15:01:08,940 [Worker-80: Launching aulaorm - AulaormApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marci\Documents\temp\Mapeamento Objeto-relaconal - ORM\aulaorm\src\test\resources
+2022-09-08 15:08:17,983 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.

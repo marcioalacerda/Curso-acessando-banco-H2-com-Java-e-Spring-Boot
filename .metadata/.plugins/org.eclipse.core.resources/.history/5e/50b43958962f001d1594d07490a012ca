@@ -1,0 +1,5 @@
+package com.devsuperior.aulaorm.entities;
+
+public class Department {
+
+}

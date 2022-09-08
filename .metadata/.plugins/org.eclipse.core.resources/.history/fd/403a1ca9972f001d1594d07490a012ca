@@ -1,0 +1,29 @@
+package com.devsuperior.aulaorm;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+import com.devsuperior.aulaorm.entities.Department;
+
+import org.springframework.boot.CommandLineRunner;
+
+@SpringBootApplication
+public class AulaormApplication implements CommandLineRunner{
+
+	public static void main(String[] args) {
+		SpringApplication.run(AulaormApplication.class, args);
+	}
+
+	@Override
+	public void run(String... args) throws Exception {
+		
+		Department d1 = new Department(1L, "Vendas");
+		Department d2 = new Department(2L, "Marketing");
+		
+		System.out.println(d1);
+		System.out.println(d2);
+		
+	}
+	
+	
+}
